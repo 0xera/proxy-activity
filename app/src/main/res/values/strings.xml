@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProxyActivity</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <string name="title_activity_proxy">ProxyActivity</string>
+</resources>
